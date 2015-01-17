@@ -1,3 +1,4 @@
+//some comment
 #pragma once
 
 class Board
